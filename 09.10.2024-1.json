@@ -1,0 +1,25 @@
+{
+    "name": "Sheila Harvey",
+    "age": 0,
+    "address": {
+        "street": "Daniel Hills",
+        "city": "Lake Anaside",
+        "state": "Colorado",
+        "zip": "22262"
+    },
+    "contact": {
+        "phone": "001-382-264-7998x286",
+        "servicePhone": "800096263"
+    },
+    "birthday": "2025-19-06",
+    "ip": "57.59.86.18",
+    "foo": "bar",
+    "profile": {
+        "about": "Daughter probably respond rest tonight community. Whatever nation firm detail teach decide sign. Agency news physical true. Your affect include election everything.",
+        "bio": "On staff name indeed example pattern tend him. Than also trouble necessary job one source. Determine garden cultural onto hospital history move."
+    },
+    "currency": [
+        "GGP",
+        "Guernsey pound"
+    ]
+}
