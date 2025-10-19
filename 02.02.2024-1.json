@@ -1,0 +1,25 @@
+{
+    "name": "Lisa Nelson",
+    "age": 95,
+    "address": {
+        "street": "Mason Spur",
+        "city": "South Michelle",
+        "state": "Maine",
+        "zip": "87140"
+    },
+    "contact": {
+        "phone": "4122426862",
+        "servicePhone": "800505028"
+    },
+    "birthday": "1930-17-11",
+    "ip": "1.66.199.126",
+    "foo": "bar",
+    "profile": {
+        "about": "Century pressure significant himself result.\nBecause manage system value lose involve. Better as movie else report never senior. Difficult thousand defense.",
+        "bio": "Return anything machine throughout term else data. She lay break upon. Call own man real war money Mr."
+    },
+    "currency": [
+        "BTN",
+        "Bhutanese ngultrum"
+    ]
+}
