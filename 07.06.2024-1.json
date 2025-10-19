@@ -1,0 +1,25 @@
+{
+    "name": "Michael Stewart",
+    "age": 11,
+    "address": {
+        "street": "Barnes Locks",
+        "city": "Courtneychester",
+        "state": "West Virginia",
+        "zip": "14290"
+    },
+    "contact": {
+        "phone": "(976)876-7983",
+        "servicePhone": "800303653"
+    },
+    "birthday": "2014-05-08",
+    "ip": "88.57.45.108",
+    "foo": "bar",
+    "profile": {
+        "about": "Through person health decide young. Sign run free personal talk successful professor.\nCurrent forward entire each product again. Tax key whether authority very. Accept fear on.",
+        "bio": "Outside whom rule. Ago camera single house recognize health."
+    },
+    "currency": [
+        "CRC",
+        "Costa Rican colón"
+    ]
+}
