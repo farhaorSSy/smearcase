@@ -1,0 +1,25 @@
+{
+    "name": "Gary Ortiz",
+    "age": 32,
+    "address": {
+        "street": "Jared Vista",
+        "city": "Jasonview",
+        "state": "Kentucky",
+        "zip": "15542"
+    },
+    "contact": {
+        "phone": "2954423827",
+        "servicePhone": "800408612"
+    },
+    "birthday": "1993-22-06",
+    "ip": "220.17.96.46",
+    "foo": "bar",
+    "profile": {
+        "about": "Police although program anyone him rule size. Eat ground maintain several. Nature once know range.",
+        "bio": "Management walk pay important down dark number. Process once image arm generation.\nHold part should drug control. Husband beyond pattern natural especially senior."
+    },
+    "currency": [
+        "GYD",
+        "Guyanese dollar"
+    ]
+}
