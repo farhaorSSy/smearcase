@@ -1,0 +1,25 @@
+{
+    "name": "Cheryl Smith",
+    "age": 98,
+    "address": {
+        "street": "Lopez Ferry",
+        "city": "Deniseborough",
+        "state": "Rhode Island",
+        "zip": "92761"
+    },
+    "contact": {
+        "phone": "4877912641",
+        "servicePhone": "800856198"
+    },
+    "birthday": "1927-28-02",
+    "ip": "207.97.77.101",
+    "foo": "bar",
+    "profile": {
+        "about": "Recently until example across us. History include public media loss happen. Discover hand explain agent. Memory seven unit away claim clearly choice nature.",
+        "bio": "Difference my company factor. Raise your billion. Style buy maybe.\nPattern evidence notice prepare win candidate. Assume fill southern idea."
+    },
+    "currency": [
+        "TVD",
+        "Tuvaluan dollar"
+    ]
+}
