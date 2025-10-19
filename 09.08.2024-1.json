@@ -1,0 +1,25 @@
+{
+    "name": "Heather Morgan",
+    "age": 20,
+    "address": {
+        "street": "Cory Prairie",
+        "city": "Christinaburgh",
+        "state": "Iowa",
+        "zip": "59819"
+    },
+    "contact": {
+        "phone": "+1-827-884-7622",
+        "servicePhone": "800563083"
+    },
+    "birthday": "2005-02-08",
+    "ip": "27.57.64.83",
+    "foo": "bar",
+    "profile": {
+        "about": "Maybe career attack question far expect.\nYourself which by unit foot toward. Answer of important artist protect.\nMorning officer member talk. Bring alone about make bank care task.",
+        "bio": "Receive level lawyer future Congress building. Citizen race picture board artist different white. Party wide up thousand school.\nBreak near decision some entire. Heavy something model guy in."
+    },
+    "currency": [
+        "TND",
+        "Tunisian dinar"
+    ]
+}
