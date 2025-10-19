@@ -1,0 +1,25 @@
+{
+    "name": "Jodi King",
+    "age": 80,
+    "address": {
+        "street": "Kemp Groves",
+        "city": "South Melissa",
+        "state": "Nevada",
+        "zip": "62274"
+    },
+    "contact": {
+        "phone": "917.408.6759",
+        "servicePhone": "800960415"
+    },
+    "birthday": "1945-25-09",
+    "ip": "52.106.67.66",
+    "foo": "bar",
+    "profile": {
+        "about": "Cultural serve hard add question. Student miss three especially end.\nActually situation worry style already nearly crime. Adult professional avoid forget cause.",
+        "bio": "Peace water less their data on serious. They side nice man sort tax into white.\nFinally on forget. Free view certainly raise. Camera they traditional everybody."
+    },
+    "currency": [
+        "XDR",
+        "Special drawing rights"
+    ]
+}
