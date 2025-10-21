@@ -1,0 +1,25 @@
+{
+    "name": "Richard Miller",
+    "age": 110,
+    "address": {
+        "street": "Jennifer Rapids",
+        "city": "East Brad",
+        "state": "Arkansas",
+        "zip": "97786"
+    },
+    "contact": {
+        "phone": "787-654-6323x4113",
+        "servicePhone": "800849459"
+    },
+    "birthday": "1915-30-03",
+    "ip": "203.187.72.7",
+    "foo": "bar",
+    "profile": {
+        "about": "Nation my dark player. Tonight system now fear.\nNice east remember black radio. Lead place Mrs industry thousand. Agreement memory often official rate.",
+        "bio": "Rate word friend box baby discuss remember.\nProgram clear man entire clearly. Lay religious us plan experience much.\nThink must manage determine issue couple seek any. Statement usually team right."
+    },
+    "currency": [
+        "GMD",
+        "Gambian dalasi"
+    ]
+}
